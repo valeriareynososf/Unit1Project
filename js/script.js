@@ -11,12 +11,21 @@ project 1 - A Random Quote Generator
  * `quotes` array 
 ***/
 
-
+const quotes = [
+  {quote: 'There is no force more powerful than a woman determined to rise.', source: 'W.E.B. Dubois', citation: 'https://www.goodgoodgood.co/'},
+  {quote: 'There is no limit to what we, as women, can accomplish.', source: 'Michelle Obama', year: 2017},
+  {quote: 'Everything is within your power, and your power is within you.', source: 'Janice Trachtman'},
+  {quote: 'We may encounter many defeats but we must not be defeated.', source: 'Maya Angelou'},
+  {quote: 'It took me quite a long time to develop a voice and now that I have it, I am not going to be silent.', source: 'Madeleine Albright'}
+];
 
 /***
  * `getRandomQuote` function
 ***/
+const getRandomQuote = () => {
 
+  
+}
 
 
 /***
